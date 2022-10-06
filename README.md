@@ -4,7 +4,7 @@
 
 #### *Hello! Welcome to this example Azure Data Pipeline. This is a project that is meant to be illustrative. Because I constructed it using a student account in Azure, not all of the normal resources were available, so some engineering cutbacks were made. Conceptually, you can think of anywhere you see "Sharepoint" as a good place to insert "Database-of-some-kind X," or "SQL Something-or-another Y," or something like that. The important thing is that pipelines are important, but do not use them without caution or understanding of what you are trying to do. And equally important, what you are supposed to be doing.*
 
-#### Follow [this link](https://youtu.be/uybarbS3r3A) if you'd like to watch the video demonstration of what I will explain below. If you are looking for the QR code to the survey and don't want to read this explainer, [click here](https://github.com/andrewkroening/azure-pipeline-example/blob/b190a09d8a9b4452916fdcf18f8ad4cc4ac80d55/screen_shots/QRCode%20for%20Thanks%20for%20visiting%20today!.png).
+#### Follow [this link](https://youtu.be/uybarbS3r3A) if you'd like to watch the video demonstration of what I will explain below. If you are looking for the QR code to the survey and don't want to read this explainer, [click here](https://github.com/andrewkroening/azure-pipeline-example/blob/01900bcbb25d0b68d1a589aca06253cd507e1708/screen_shots/QRCode%20for%20Thanks%20for%20visiting%20today!.png).
 
 ### Pipelines in General
 
@@ -42,4 +42,4 @@ Here's a picture of the actual Power Flow generated based on that framework. Thi
 
 ***And if its the fall of 2022, and you are a student in the MIDS program, go ahead and scan the QR code below to give the survey a shot!! (Assuming University IT hasn't cut me off yet...)***
 
-<img src="https://github.com/andrewkroening/azure-pipeline-example/blob/b190a09d8a9b4452916fdcf18f8ad4cc4ac80d55/screen_shots/QRCode%20for%20Thanks%20for%20visiting%20today!.png" width=350>
+<img src="https://github.com/andrewkroening/azure-pipeline-example/blob/01900bcbb25d0b68d1a589aca06253cd507e1708/screen_shots/QRCode%20for%20Thanks%20for%20visiting%20today!.png" width=350>
