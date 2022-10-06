@@ -4,6 +4,8 @@
 
 #### *Hello! Welcome to this example Azure Data Pipeline. This is a project that is meant to be illustrative. Because I constructed it using a student account in Azure, not all of the normal resources were available, so some engineering cutbacks were made. Conceptually, you can think of anywhere you see "Sharepoint" as a good place to insert "Database-of-some-kind X," or "SQL Something-or-another Y," or something like that. The important thing is that pipelines are important, but do not use them without caution or understanding of what you are trying to do. And equally important, what you are supposed to be doing.*
 
+#### Follow [this link](https://youtu.be/uybarbS3r3A) if you'd like to watch the video demonstration of what I will explain below.
+
 ### Pipelines in General
 
 Here's a little sketch of the generic idea behind a data pipeline. We have a source that is generating data for us. Maybe this is a survey, a table that tracks sales in a database, or something similar. We want to use that data, but where it currently sits isn't valuable. So let's use some trigger (time, scheduled, or event-based) to initiate a sequence that extracts that data, does a transformation on it, and then loads it into an area we can use. The end is an important part to talk about. Everyone gets caught up in the flashy services and transformations in the middle, but don't forget to make your data end somewhere helpful, like in a feeder table for a business intelligence dashboard. A great question to ask is, "so what?"
@@ -38,6 +40,6 @@ Here's a picture of the actual Power Flow generated based on that framework. Thi
 
 ![alt text](https://github.com/andrewkroening/azure-pipeline-example/blob/e2056c406eb99b8c88c11ee112f99f11d3d93d7c/screen_shots/Screen_Shot_5.png?raw=true)
 
-***And if its the fall of 2022, and you are a student in the MIDS program, go ahead and scan the QR code below to give the survey a shot!! (Assuming University IT hasn't cut me off yet...)
+***And if its the fall of 2022, and you are a student in the MIDS program, go ahead and scan the QR code below to give the survey a shot!! (Assuming University IT hasn't cut me off yet...)***
 
 <img src="https://github.com/andrewkroening/azure-pipeline-example/blob/b190a09d8a9b4452916fdcf18f8ad4cc4ac80d55/screen_shots/QRCode%20for%20Thanks%20for%20visiting%20today!.png" width=350>
