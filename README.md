@@ -38,6 +38,6 @@ Here's a picture of the actual Power Flow generated based on that framework. Thi
 
 ![alt text](https://github.com/andrewkroening/azure-pipeline-example/blob/b190a09d8a9b4452916fdcf18f8ad4cc4ac80d55/screen_shots/Screen_Shot_5.png?raw=true)
 
-***And if its the fall of 2022, and you are a student in the MIDS program, go ahead and scan the QR code below to give the survey a shot!! (Assuming the University IT hasn't cut me off yet...)
+***And if its the fall of 2022, and you are a student in the MIDS program, go ahead and scan the QR code below to give the survey a shot!! (Assuming University IT hasn't cut me off yet...)
 
-![alt text](https://github.com/andrewkroening/azure-pipeline-example/blob/b190a09d8a9b4452916fdcf18f8ad4cc4ac80d55/screen_shots/QRCode%20for%20Thanks%20for%20visiting%20today!.png?raw=truewidth="25")
+<img src="https://github.com/andrewkroening/azure-pipeline-example/blob/b190a09d8a9b4452916fdcf18f8ad4cc4ac80d55/screen_shots/QRCode%20for%20Thanks%20for%20visiting%20today!.png" width=350>
