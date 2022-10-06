@@ -36,7 +36,7 @@ So that brings us to this specific project. Here's a picture of what we have goi
 
 Here's a picture of the actual Power Flow generated based on that framework. This is just an example; Azure offers hundreds of connectors for various stages of this process. We could use a Twitter trigger, send things to Dataverse, catch messages from Amazon SQS, or even push our outputs to AWS S3. There's a world of options out there.
 
-![alt text](https://github.com/andrewkroening/azure-pipeline-example/blob/0907c66acc59196b33f9d248eaa23f878fdde1b1/screen_shots/Screen_Shot_5.png?raw=true)
+![alt text](https://github.com/andrewkroening/azure-pipeline-example/blob/e2056c406eb99b8c88c11ee112f99f11d3d93d7c/screen_shots/Screen_Shot_5.png?raw=true)
 
 ***And if its the fall of 2022, and you are a student in the MIDS program, go ahead and scan the QR code below to give the survey a shot!! (Assuming University IT hasn't cut me off yet...)
 
