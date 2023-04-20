@@ -1,3 +1,5 @@
+⚠️ ***This repository is archived as of April 20th, 2023*** ⚠️
+
 # Example Azure Data Pipeline
 
 ### Introduction
@@ -41,5 +43,7 @@ Here's a picture of the actual Power Flow generated based on that framework. Thi
 ![alt text](https://github.com/andrewkroening/azure-pipeline-example/blob/e2056c406eb99b8c88c11ee112f99f11d3d93d7c/screen_shots/Screen_Shot_5.png?raw=true)
 
 ***And if its the fall of 2022, and you are a student in the MIDS program, go ahead and scan the QR code below to give the survey a shot!! (Assuming University IT hasn't cut me off yet...)***
+
+⚠️ ***They cut me off...*** ⚠️
 
 <img src="https://github.com/andrewkroening/azure-pipeline-example/blob/01900bcbb25d0b68d1a589aca06253cd507e1708/screen_shots/QRCode%20for%20Thanks%20for%20visiting%20today!.png" width=350>
